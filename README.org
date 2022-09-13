@@ -1,0 +1,52 @@
+#+TITLE: Made of Steal
+Plagiarism – intended or unintended – is quite common in Heavy Metal music.
+This project aims to find as many similarities between songs as possible and
+store them in a list.
+
+I am not against diving into other genres of music.  If it gets too much I'll
+just split the list into smaller ones by genre.
+
+* The list
+The current list is [[./list.yml][here]].  It features one item for each
+riff or melody that has been plagiarised.  At the top level, there is the
+“original” song – usually the oldest one.  Below there is a list of perceived
+plagiarisms, each with a similarity rating.  Moreover, we provide a way to
+listen to it, usually a Youtube video with a timestamp.
+
+* Contribution
+Contributions from the community are very welcome!  Just create a pull
+request for ~list.yml~.  Be sure to add new riffs/melodies at the end of the
+file.  More often than you think a melody is “reused” multiple times.  So
+please have a look if one of your songs is already in the list.  If that's
+the case, please add the other song at the appropriate place.
+
+All submissions must follow this Yaml format:
+#+BEGIN_SRC yaml
+- artist: band
+  song: song title
+  position: timestamp, preferrably with Youtube link
+  plagiarisms:
+    - artist: band
+      song: song title
+      position: timestamp, preferrably with Youtube link
+      similarity: 0, 1, or 2
+#+END_SRC
+
+If there are multiple songs borrowing from this melody/riff, add each as a
+separate list item under ~plagiarisms~.  The ~similarity~ is a rating of how
+close the perceived plagiarism is to the original song.
+- A ~2~ means (almost) identical and should be an objective measure.
+- A ~1~ means not identical, but pretty similar (maybe a few notes are
+  changed or missing).
+- A ~0~ means not a direct copy, but you can still feel the other song.
+Obviously, the difference between ~1~ and ~0~ is subjective and may be up for
+discussion.
+
+If you find a technical error in the list (e.g., plagiarisms of the same
+melody/riff are split between multiple items), please create a pull request
+as well.
+
+If you disagree with some similarity rating, please create an issue.
+
+* License
+   [[./LICENSE][CC0]]
