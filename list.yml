@@ -1,0 +1,8 @@
+- artist: Avantasia
+  song: The Seven Angels
+  position: https://www.youtube.com/watch?v=kuQCeNyFr5c&t=706s
+  plagiarisms:
+    - artist: Vandroya
+      song: Why Should We Say Goodbye?
+      position: https://www.youtube.com/watch?v=Thco3MItXJQ&t=68s
+      similarity: 2
