@@ -6,3 +6,124 @@
       song: Why Should We Say Goodbye?
       position: https://www.youtube.com/watch?v=Thco3MItXJQ&t=68s
       similarity: 2
+
+- artist: Hammerfall
+  song: Glory to the Brave
+  position: https://www.youtube.com/watch?v=YLQtS84ccyk&t=97s
+  plagiarisms:
+    - artist: Helloween
+      song: Pumpkins United
+      position: https://www.youtube.com/watch?v=Feu8bxF05Rw&t=319s
+      similarity: 2
+
+- artist: Lux Perpetua
+  song: The Werewolf
+  position: https://www.youtube.com/watch?v=1jWkMGa7bxE&t=211s
+  plagiarisms:
+    - artist: Blind Guardian Twilight Orchestra
+      song: Nephilim
+      position: https://www.youtube.com/watch?v=OgH8Lv0-QwM&t=194s
+      similarity: 1
+
+- artist: Helloween
+  song: I Want Out
+  position: https://www.youtube.com/watch?v=FjV8SHjHvHk&t=192s
+  plagiarisms:
+    - artist: Gamma Ray
+      song: New World Order
+      position: https://www.youtube.com/watch?v=hR4VOPl9nhg&t=175s
+      similarity: 2
+
+- artist: Bad Boys Blue
+  song: Come Back And Stay
+  position: https://www.youtube.com/watch?v=OiYb9kOuDAA&t=16s
+  plagiarisms:
+    - artist: Avantasia
+      song: Book of Shallows
+      position: https://www.youtube.com/watch?v=JUhnoSKrPLM
+      similarity: 2
+
+- artist: Crimson Glory
+  song: In Dark Places
+  position: https://www.youtube.com/watch?v=T8V1GlJ9gDc&t=22s
+  plagiarisms:
+    - artist: Sabaton
+      song: Dreadnought
+      position: https://www.youtube.com/watch?v=RJK0jhymE5A&t=21s
+      similarity: 2
+
+- artist: Loreena McKennit
+  song: All Soul's Night
+  position: https://www.youtube.com/watch?v=U6Y5WG3FOl4&t=62s
+  plagiarisms:
+    - artist: Ayreon
+      song: The Truth Is In Here
+      position: https://www.youtube.com/watch?v=eTjeggJg9ss&t=56s
+      similarity: 0
+
+- artist: Shontelle
+  song: Impossible
+  position: https://www.youtube.com/watch?v=NWdrO4BoCu8&t=52s
+  plagiarisms:
+    - artist: Epica
+      song: Rivers
+      position: https://www.youtube.com/watch?v=3rW7Vpep3II&t=23s
+      similarity: 2
+
+- artist: Stratovarius
+  song: Soul of a Vagabond
+  position: https://www.youtube.com/watch?v=eqJ6ybCrEcA&t=144s
+  plagiarisms:
+    - artist: Revolution Renaissance
+      song: Revolution Renaissance
+      position: https://www.youtube.com/watch?v=rMmXtyo1jrQ&t=114s
+      similarity: 1
+
+- artist: Galneryus
+  song: The Wind Blows
+  position: https://www.youtube.com/watch?v=DxZPaojKaQE&t=53s
+  plagiarisms:
+    - artist: Excalion
+      song: Quicksilver
+      position: https://www.youtube.com/watch?v=03Rmr0eHOVg&t=86s
+      similarity: 1
+
+- artist: Iron Maiden
+  song: Aces High
+  position: https://www.youtube.com/watch?v=Xg9aQvjMS60&t=69s
+  plagiarisms:
+    - artist: Ayreon
+      song: Run! Apocalypse! Run!
+      position: https://www.youtube.com/watch?v=bU-yWohX5F4&t=40s
+      similarity: 1
+    - artist: Star One
+      song: Fate of Man
+      position: https://www.youtube.com/watch?v=vn7P3oVMnys&t=101s
+      similarity: 1
+
+- artist: Rage
+  song: Ghosts
+  position: https://www.youtube.com/watch?v=hjckIDQvMh4&t=44s
+  plagiarisms:
+    - artist: Avantasia
+      song: Death Is Just a Feeling
+      position: https://www.youtube.com/watch?v=WkHzGzg0DuY&t=12s
+      similarity: 2
+
+- artist: Tarja
+  song: Too Many
+  position: https://www.youtube.com/watch?v=yY9NIA27Cqc
+  plagiarisms:
+    - artist: Sebastien
+      song: Amy
+      position: https://www.youtube.com/watch?v=VmxKVu3jaXI&t=68s
+      similarity: 1
+
+- artist: Savatage
+  song: Gutter Ballet
+  position: https://www.youtube.com/watch?v=QIFVzhWRjDM&t=84s
+  plagiarisms:
+    - artist: Sabaton
+      song: Gallipoli
+      position: https://www.youtube.com/watch?v=ltAxoW7ltok&t=5s
+      similarity: 2
