@@ -42,6 +42,9 @@ close the perceived plagiarism is to the original song.
 Obviously, the difference between ~1~ and ~0~ is subjective and may be up for
 discussion.
 
+Please use "~original artist~ inspired ~plagiarising artist(s)~" as the
+commit message.
+
 If you find a technical error in the list (e.g., plagiarisms of the same
 melody/riff are split between multiple items), please create a pull request
 as well.
