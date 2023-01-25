@@ -127,3 +127,12 @@
       song: Gallipoli
       position: https://www.youtube.com/watch?v=ltAxoW7ltok&t=5s
       similarity: 2
+
+- artist: Rhapsody
+  song: Unholy Warcry
+  position: https://www.youtube.com/watch?v=Sx5BVLgRu_o&t=165s
+  plagiarisms:
+    - artist: Power Paladin
+      song: Into the Forbidden Forest
+      position: https://www.youtube.com/watch?v=sIDuFOvbk00&t=301s
+      similarity: 2
