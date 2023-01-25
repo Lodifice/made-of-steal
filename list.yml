@@ -136,3 +136,12 @@
       song: Into the Forbidden Forest
       position: https://www.youtube.com/watch?v=sIDuFOvbk00&t=301s
       similarity: 2
+
+- artist: Sonata Arctica
+  song: I Have a Right
+  position: https://www.youtube.com/watch?v=eEZzTlyjROI&t=56s
+  plagiarisms:
+    - artist: Cain's Offering
+      song: Constellation of Tears
+      position: https://www.youtube.com/watch?v=7zkoyBSPGx4&t=72s
+      similarity: 1
